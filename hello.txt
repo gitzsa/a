@@ -5,9 +5,6 @@ gishghsgfh
 gishghsgfh
 gishghsgfh
 gishghsgfh
-<<<<<<< HEAD
 gishghsgfh    marst test 1
 gishghsgfh    host test
-=======
 gishghsgfh    3
->>>>>>> host
